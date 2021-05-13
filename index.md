@@ -1,3 +1,4 @@
+(setq markdown-css-paths '("./e.css"))
 # better reopen fnf really quickly before you're forced to suffer
 # better reopen fnf really quickly before you're forced to suffer
 # better reopen fnf really quickly before you're forced to suffer
